@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoMihoyoApp</string>
+
+    <string name="actionbar_webview_cope">Copy the cookies</string>
+    <string name="actionbar_webview_refresh">Refresh the page</string>
+    <string name="bt_open_url">open url</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoMihoyoApp</string>
+
+    <string name="actionbar_webview_cope">复制 Cookie</string>
+    <string name="actionbar_webview_refresh">刷新页面</string>
+    <string name="bt_open_url">打开网页</string>
+</resources>
